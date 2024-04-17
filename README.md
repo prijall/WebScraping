@@ -7,4 +7,4 @@ Web Scraping is an automatic method to obtain large amount of data from websites
 - Selenium
 - Legal website for scrapping
 - Any Database for data storage or MS Excel
-![alt text](<web scraping.webp>)
+![alt text](<Photo/web scraping.webp>)
