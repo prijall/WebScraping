@@ -24,3 +24,8 @@ Today, I understand the use of **Request** and **BeautifulSoup** library for web
 # Day 3
 Use of Regex is very useful in webscraping. **RegEx** stands for **Regular Expression** which helps to collect data more efficiently and help use to get the required data.
 ![alt text](Photo/Regex.png)
+
+# Day 4
+Today, I scraped table of ipl auction for 2024 and converted it into csv file with the help of pandas library.
+- Below is code snippet:
+![alt text](Photo/ipl.png)
